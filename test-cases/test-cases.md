@@ -1,6 +1,6 @@
 # Test Cases – Automation Exercise
 
-> Executed on **2026-10-27** · **Chromium-based browser; version unresolved** · desktop 1366×768.
+> Executed on **2026-10-27** · **Chromium-based browser ** · desktop 1366×768.
 > These are historical results from an AI-assisted browser run, not a newly completed personal run. The conflicting browser versions are documented in the README.
 > The same data is available as a filterable Excel sheet: [`AutomationExercise_Test_Cases.xlsx`](AutomationExercise_Test_Cases.xlsx).
 

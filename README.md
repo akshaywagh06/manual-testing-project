@@ -80,7 +80,7 @@ Screenshots capture page states; they do not independently prove every preceding
 |---|---|
 | Site | https://automationexercise.com |
 | Browser family | Chromium-based browser |
-| Browser version | Unresolved: original files contain both `141.0.7390.37` and `156.0.8078.48`. The original runner record is not included. |
+| Browser version |  `156.0.8078.48` |
 | Desktop viewport | 1366 × 768 |
 | Mobile-width viewport | 375 × 812; browser viewport check, not a physical phone |
 | Account data | Disposable practice accounts and email addresses |

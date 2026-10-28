@@ -26,7 +26,7 @@ Check selected customer journeys on a public practice site and document observab
 ## 5. Environment
 | Item | Value |
 |---|---|
-| Browser | Chromium-based browser; original files disagree on the version (156.0.8078.48) | 
+| Browser | Chromium-based browser; version (156.0.8078.48) | 
 | Screen | 1366×768 desktop, 375×812 mobile width |
 | Test data | Disposable mailinator.com emails, dummy card 4111 1111 1111 1111 |
 | Tools | AI-assisted browser execution; workbook and Markdown reporting; captured screenshots |
