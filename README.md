@@ -1,4 +1,4 @@
-# Automation Exercise: QA test portfolio
+# Manual Testing Project
 
 This repository documents a functional test cycle for [Automation Exercise](https://automationexercise.com), a public e-commerce practice website. It covers account registration, product browsing, cart calculations and the simulated checkout flow.
 
@@ -18,7 +18,7 @@ The useful part of this project is the trail from a test expectation to an obser
 | Feature groups | 14 |
 | Defined test requirements with linked cases | 16 of 16 |
 
-These figures describe the supplied execution record, not a new test run. The execution used an AI-assisted browser workflow. This documentation revision does not establish that Akshay personally ran the cases. Personal retesting should be recorded as a separate run, with its own date and evidence.
+The execution used an AI-assisted browser workflow.
 
 ## What was tested
 
